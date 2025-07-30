@@ -80,4 +80,7 @@ This analysis identified **potential outbreak zones** based on high tweet densit
 ---
 
 ## 📁 Project Structure
-
+├── notebooks/
+│ └── Python_Code.ipynb # Main notebook: preprocessing, training, visualization
+├── data/
+│ └── influenza_outbreak_dataset.mat # UCI dataset (flu-related tweets)
